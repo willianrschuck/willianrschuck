@@ -17,6 +17,4 @@
  Acho importante compartilhar o nosso conhecimento, é sempre uma oportunidade para aprender.
  Caso tenha algo que queira falar comigo se sinta a vontade para entrar em contato.
  
- Twitter: [@willianrschuck](https://twitter.com/willianrschuck) | Discord: [www#8080](https://discord.com/users/297884730483933194)
- 
- 
+ Discord: [www#8080](https://discord.com/users/297884730483933194)
