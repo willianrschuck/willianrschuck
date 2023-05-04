@@ -1,6 +1,6 @@
  # Hello!
  
- Me chamo Willian, sou acadêmico em Ciência da Computação pelo Instituto Federal Sul-rio-grandense. Estou cursando o quarto ano da faculdade.
+ Me chamo Willian, sou formado em Ciência da Computação pelo Instituto Federal Sul-rio-grandense.
  
  Sou apaixonado pelo uso da tecnologia na solução de problemas e espero poder contribuir com a comunidade desenvolvendo aplicações que agreguem valor a vida das pessoas.
  
