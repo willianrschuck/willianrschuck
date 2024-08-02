@@ -59,6 +59,5 @@
 
 
 
-
   
 <details><summary>ᓚ₍ ^. ̫ .^₎</summary> você achou um gato</details></pre>
