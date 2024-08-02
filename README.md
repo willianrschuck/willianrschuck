@@ -36,4 +36,31 @@
   
   - GitHub (você está aqui) - <a href="https://github.com/willianrschuck">https://github.com/willianrschuck</a>
   - LinkedIn - <a href="https://www.linkedin.com/in/willianrschuck">https://www.linkedin.com/in/willianrschuck</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+ᓚ₍ ^. ̫ .^₎
+você achou um gato
 </pre>
