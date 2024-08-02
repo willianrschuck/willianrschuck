@@ -1,6 +1,9 @@
 <pre>
-                                 <b><ins>willianrschuck</ins></b>
- 
+  
+<details><summary>                                 <b><ins>willianrschuck</ins></b></summary>
+  
+  <img src="https://media1.tenor.com/m/d3zOzcrwFpcAAAAd/anime-phone.gif" alt="Anime Phone GIF" width="640"></details>
+                                 
   
   <b>Quem sou eu?</b>
   -------------
@@ -52,15 +55,10 @@
 
 
 
-
-
   
 
 
 
 
   
-
-ᓚ₍ ^. ̫ .^₎
-você achou um gato
-</pre>
+<details><summary>ᓚ₍ ^. ̫ .^₎</summary> você achou um gato</details></pre>
