@@ -5,7 +5,7 @@
   <b>Quem sou eu?</b>
   -------------
   Sou bacharel em Ciência da Computação e atualmente trabalho desenvolvendo 
-  aplicações web e mobile utilizando Java e React.
+  aplicações web e mobile utilizando Java e javaScript.
 
  
   <b>Valores</b>
