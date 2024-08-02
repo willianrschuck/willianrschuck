@@ -25,15 +25,15 @@
   2. Prefiro Linux.
   3. Gosto de Minimalismo (de uma forma normal, não doentia).
   4. Tenho interesse na área de segurança e gosto de trabalhar no lado do servidor
-     (onde a lógica que domina)
+     (onde a lógica que domina).
   5. Diria que sou curioso e investigativo.
-  6. Para mais informações, verifique o capitulo <i>Contato</i>
+  6. Para mais informações, verifique o capitulo <i>Contato</i>.
  
   
   <b>Contato</b>
   -------
   Estou acessível através dos seguintes perfis:
   
-  - GitHub (você está aqui): <a href="https://github.com/willianrschuck">https://github.com/willianrschuck</a>
-  - LinkedIn: <a href="https://www.linkedin.com/in/willianrschuck">https://www.linkedin.com/in/willianrschuck</a>
+  - GitHub (você está aqui) - <a href="https://github.com/willianrschuck">https://github.com/willianrschuck</a>
+  - LinkedIn - <a href="https://www.linkedin.com/in/willianrschuck">https://www.linkedin.com/in/willianrschuck</a>
 </pre>
